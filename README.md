@@ -1,4 +1,4 @@
-#Svelte + Tailwind2 Template
+# Svelte + Tailwind2 Template
 
 Starter template for [Svelte](https://svelte.dev) + [TailwindCSS](https://tailwindcss.com) apps.
 
